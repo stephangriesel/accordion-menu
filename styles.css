@@ -80,3 +80,7 @@
 .smallmenu a:hover:before{
     opacity: 1;
 }
+
+.item:target .smallmenu {
+    max-height:10em;
+}
